@@ -1,0 +1,29 @@
+_repo: Der-Wille-zur-Macht-Eine-Auslegung-alles-Geschehens_60360
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nietzsche, Friedrich Wilhelm
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '779'
+    url: http://www.gutenberg.org/2009/agents/779
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
+  editor:
+    agent_name: Brahn, Max
+    gutenberg_agent_id: '50920'
+    url: http://www.gutenberg.org/2009/agents/50920
+description: ''
+gutenberg_issued: '2019-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60360'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Der Wille zur Macht
+
+  Eine Auslegung alles Geschehens'
+url: http://www.gutenberg.org/ebooks/60360
